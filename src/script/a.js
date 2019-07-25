@@ -1,3 +1,6 @@
-const  PHONE = '15281645002'
 
-export default PHONE
+// a.js
+export default function (a, b) {
+    return a + b
+}
+
